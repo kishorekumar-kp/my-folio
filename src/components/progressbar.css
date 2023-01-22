@@ -1,0 +1,22 @@
+.division{
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    align-items: center;
+    /* padding-top: 40px; */
+    margin-top: 30px;
+    font-family:'Oswald', sans-serif;
+    color: #404969;
+
+}
+.division span{
+    color: #404969;
+    font-weight: 600;
+    font-size: larger;
+}
+.circular{
+    padding: 20px;
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+}

@@ -1,0 +1,25 @@
+<div style={{width:"90%" ,marginLeft:"50px"}}>
+<h2 style={{textAlign:"center", marginTop:0 ,color:"#404969",textDecoration:"underline"}}>Small Projects</h2>
+<Slider {...settings}>
+  <div  >
+    <div className="img-div" style={{padding:"0 140px 0 150px",}} >
+    <img src={portfolio} alt="" width={600} height={300} />
+    </div>
+  </div>
+  <div>
+  <div className="img-div" style={{padding:"0 140px 0 150px",}} >
+    <img src={quizz} alt="" width={600} height={300} />
+    </div>
+  </div>
+  <div>
+  <div className="img-div" style={{padding:"0 150px 0 150px",}} >
+    <img src={portfolio} alt="" width={600} height={300} />
+    </div>
+  </div>
+  <div>
+  <div className="img-div" style={{padding:"0 150px 0 150px",}} >
+    <img src={expence} alt="" width={600} height={300} />
+    </div>
+  </div>
+</Slider>
+</div>

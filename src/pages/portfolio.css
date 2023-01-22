@@ -1,0 +1,19 @@
+.port_folio{
+    margin:0;
+    padding: 0 250px 0 250px ;
+    box-sizing: border-box;
+    font-family:'Oswald', sans-serif;
+    background-color:#E0FCFF;
+    width: 100%;
+    min-height: 92vh;
+    /* position: fixed; */
+}
+.first-half{
+    color: #404969;
+    width: 100%;
+    height: 300px;
+}
+.second-half{
+    width: 100%;
+    height: 380px;
+}
